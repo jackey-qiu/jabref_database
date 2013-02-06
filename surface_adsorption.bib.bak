@@ -57,7 +57,144 @@
 	with experimental measurements of the atomic layer relaxation
 	
 	Also coulbe be due to empty d states of the surface Fe atoms (act
-	as strong Lewis acid sites)},
+	as strong Lewis acid sites)
+	
+	
+	Introduction
+	
+	From an environmental standpoint, corundum (α-Al2O3) and hematite
+	(α-Fe2O3) are of particular interest because of the use of the former
+	as a model compound for Al-(oxyhydr)oxides present in the environment
+	and the relative abundance of the latter in nature and its importance
+	as a sorbent of aqueous
+	
+	cations, such as Hg(II), and oxoanions, such as HAsO4.
+	
+	
+	our focus is on explaining these differences in reactivity through
+	a detailed computational investigation of the structural changes
+	due to hydration and hydroxylation of α-Al2O3 and α-Fe2O3 surfaces.
+	
+	
+	Both α-Al2O3 and α-Fe2O3 can form two energetically stable surfaces,
+	i.e., the (0001) or c-cut and the (1¯102) or r-cut surface,which
+	exhibit significantly different structural relaxations in the presence
+	of water.As a result, the c-cut surface of α-Fe2O3 is much more reactive
+	to the adsorption and dissociation of water compared with the r-cut
+	surface of α-Fe2O3 and either of the α-Al2O3 surfaces
+	
+	
+	hydrated c-cut surface of α-Fe2O3 consists of two distinct domains,
+	one in which surface hydroxyl groups are singly coordinated by iron(III)
+	ions and one in which the surface hydroxyls are singly, doubly, and
+	triply coordinated by iron(III) ions.3 In comparison, the hydrated
+	c-cut surface of α-Al2O3 has only surface hydroxyl groups doubly
+	coordinated by aluminum ions.
+	
+	
+	In the case of the hydrated r-cut surfaces of both hematite and corundum,
+	there are equal proportions of singly, doubly, and triply coordinated
+	hydroxyl groups, yet the hydrated hematite r-cut surface is more
+	reactive than the corresponding hydrated surface of corundum.
+	
+	There are also differences in the mode of binding of cations on the
+	two surfaces. For example, aqueous U(VI) has been found to form dominantly
+	
+	inner-sphere bidentate complexes on the hydrated α-Fe2O3 r-cut surface
+	and dominantly monodentate complexes on the hydrated α-Al2O3 r-cut
+	surface.
+	
+	In addition, aqueous Pb(II) ions form dominantly inner-sphere complexes
+	on the hydrated α-Fe2O3 c-cut, α-Fe2O3 r-cut, and α-Al2O3 r-cut surfaces,
+	but
+	
+	they form dominantly outer-sphere complexes on the hydrated α-Al2O3
+	c-cut surface.
+	
+	
+	These differences in metal-ion surface complexation suggest different
+	chemical reactivities of these different hydrated metal-oxide surfaces,
+	which are
+	
+	likely due to differences in (1) metal ions (Al3+ vs Fe3+), (2) surface
+	relaxation in the presence of water (i.e., hydroxylation effects),
+	(3) the acid/base properties of surface sites, and (4) interaction
+	of physisorbed water with the surfaces.
+	
+	
+	Water molecules will tend to orient in such a way as to shield the
+	charged hydroxyl groups, thereby decreasing the polarizability of
+	the water and reducing the dielectric constant of water near the
+	surface. The interfacial dielectric constant is difficult to measure
+	experimentally, and values ranging from 6 to 53 (compared to 78 in
+	bulk water) have been suggested for water in contact with both α-Al2O3
+	and α-Fe2O3.9
+	
+	
+	Whether an ion interacts with the surface via inner-sphere or outersphere
+	complexation (or both simultaneously11) depends on a complicated
+	interaction between these surface hydroxyl groups and the corresponding
+	induced electric field from the charged species, all of which ultimately
+	depend on the geometric and electronic structures of the given surface.
+	
+	
+	Surface free energy
+	
+	At high temperatures, the hydrogen atoms are not stable on the surface,
+	and the M1 clean stoichiometric surface (M1 bulk), which has no hydroxyl
+	groups, is the most energetically favorable. At room temperature
+	and below over most of the pressure range (−12 to ∼ 1 log p/p0) the
+	M1-OH-OH surface is the most
+	
+	stable in which the first two layers of oxygen atoms are hydroxylated.
+	However, the M2-OH2-OH surface termination with missing Al atoms
+	becomes stable at room temperature at log p/p0 >∼ 1.
+	
+	
+	Difference in surface rexlaxation of a-Al2O3 and a-Fe2O3
+	
+	The atoms in the top surface layers of α-Al2O3 experience more relaxation
+	with respect to the bulk positions than surface atoms in α-Fe2O3
+	under the same environmental conditions. These differences in layer
+	relaxation extend as much as nine to ten layers into the bulk region
+	(Tables II and III). The protonation states of the singly, doubly,
+	and triply coordinated oxygen atoms directly affect both the type
+	and the extent of relaxation.
+	
+	
+	It is possible that, in the experimental work, the surface is not
+	entirely homogeneous, and the CTR measurements include multiple hydroxylation
+	configurations on the surface.
+	
+	the effect of physisorbed water on the layer relaxation of the α-Al2O3
+	r-cut surfaces was also examined, but it did not significantly change
+	the results or the geometric structure of the M2-OH-OH-OH surface,
+	which is in closest agreement with the CTR diffraction results.
+	
+	
+	
+	Reactivity
+	
+	Comparison of the DOS of α-Fe2O3 (Fig. 6) with the DOS of α-Al2O3
+	shows a much higher concentration of electron-acceptor sites from
+	the d states of the Fe atoms within the band gap compared with the
+	p states of the Al atoms.
+	
+	it is clear that the number of empty Fe states at the α-Fe2O3 r-cut
+	surface is very high and close to the Fermi level and will contribute
+	to a much stronger degree of reactivity in terms of its Lewis acid
+	sites compared to the α-Al2O3 r-cut surface.
+	
+	
+	Bond length
+	
+	typicalOHinternal distance is on the order of 1 A°
+	
+	typical hydrogenbonding distances are on the order of 2.5–3 °A
+	
+	
+	the addition of two and three layers of water does not significantly
+	change the layer relaxation of the α-Al2O3 surface structure},
   timestamp = {2012.06.20}
 }
 
