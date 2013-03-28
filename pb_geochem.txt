@@ -1,0 +1,10 @@
+﻿@article{
+   author = {Cao, X and Ma, LQ and Chen, M and Hardison, DW},
+   title = {Lead transformation and distribution in the soils of shooting ranges in Florida, USA},
+   journal = {The Science of the Total Environment},
+   volume = {307},
+   number = {1-3},
+   pages = {179-189},
+   year = {2003}
+}
+

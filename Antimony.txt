@@ -1,0 +1,670 @@
+﻿@phdthesis{
+   author = {Barabash, Sarah Jane},
+   title = {Geochemical modelling of silver(I), copper(II) and antimony(V) sorption to soil as a function of soil properties: Development of soil assemblage models},
+   notes = {CAPLUS AN 2011:553025(Dissertation)},
+   year = {2010}
+}
+
+@article{
+   author = {Belkin, Harvey E. and Sparck, Harold M.},
+   title = {Mercury, arsenic, antimony, and selenium contents of sediment from the Kuskokwim River, Bethel, Alaska, USA},
+   journal = {Environ. Geol. (Berlin)},
+   volume = {22},
+   number = {Copyright (C) 2012 American Chemical Society (ACS). All Rights Reserved.},
+   pages = {106-10},
+   note = {CAPLUS AN 1994:252726(Journal)},
+   abstract = {The Kuskokwim River at Bethel, Alaska, drains a major mercury-antimony metallogenic province in its upper reaches and tributaries. Bethel (population 4000) is situated on the Kuskokwim floodplain and also draws its water supply from wells located in river-deposited sediment. A boring through overbank and floodplain sediment has provided material to establish a baseline datum for sediment-hosted heavy metals. Mercury (total), arsenic, antimony, and selenium contents were detd.; aluminum was also detd. and used as normalizing factor. The contents of the heavy metals were relatively const. with depth and do not reflect any potential enrichment from upstream contaminant sources. [on SciFinder(R)]},
+   keywords = {river sediment pollution background Kuskokwim Alaska
+mercury sediment Kuskokwim River Alaska
+arsenic sediment Kuskokwim River Alaska
+antimony sediment Kuskokwim River Alaska
+selenium sediment Kuskokwim River Alaska},
+   year = {1993}
+}
+
+@article{
+   author = {Cloy, Joanna M. and Farmer, John G. and Graham, Margaret C. and MacKenzie, Angus B. and Cook, Gordon T.},
+   title = {A comparison of antimony and lead profiles over the past 2500 years in Flanders Moss ombrotrophic peat bog, Scotland},
+   journal = {Journal of Environmental Monitoring},
+   volume = {7},
+   number = {12},
+   pages = {1137-1147},
+   abstract = {Two cores collected in 2001 and 2004 from Flanders Moss ombrotrophic peat bog in central Scotland were dated (C, Pb) and analysed (ICP-OES, ICP-MS) to derive and compare the historical atmospheric deposition records of Sb and Pb over the past 2500 years. After correction, Sc, for contributions from soil dust, depositional fluxes of Sb and Pb peaked from . 1920-1960 A.D., with >95% of the anthropogenic inventories deposited post-1800 A.D. Over the past two centuries, trends in Sb and Pb deposition have been broadly similar, with fluctuations in the anthropogenic Sb/Pb ratio reflecting temporal variations in the relative input from emission sources such as the mining and smelting of Pb ores (in which Sb is commonly present, as at Leadhills/Wanlockhead in southern Scotland), combustion of coal (for which the Sb/Pb ratio is approximately an order of magnitude greater than in Pb ores) and exhaust emissions (Pb from leaded petrol) and abrasion products from the brake linings (Sb from heat-resistant Sb compounds) of automobiles. The influence of leaded petrol has been most noticeable in recent decades, firstly through the resultant minima in Sb/Pb and Pb/Pb ratios (the latter arising from the use of less radiogenic Australian Pb in alkylPb additives) and then, during its phasing out and the adoption of unleaded petrol, complete by 2000 A.D., the subsequent increase in both Sb/Pb and Pb/Pb ratios. The extent of the 20th century maximum anthropogenic enrichment of Sb and Pb, relative to the natural Sc-normalised levels of the Upper Continental Crust, was similar at [similar]50- to 100-fold. Prior to 1800 A.D., the influence of metallurgical activities on Sb and Pb concentrations in the peat cores during both the Mediaeval and Roman/pre-Roman periods was discernible, small Sb and Pb peaks during the latter appearing attributable, on the basis of Pb isotopic composition, to the mining/smelting of Pb ores indigenous to Britain.},
+   year = {2005}
+}
+
+@article{
+   author = {Cutter, Gregory A. and Cutter, Lynda S. and Featherstone, Alison M. and Lohrenz, Steven E.},
+   title = {Antimony and arsenic biogeochemistry in the western Atlantic Ocean},
+   journal = {Deep Sea Research Part II: Topical Studies in Oceanography},
+   volume = {48},
+   number = {13},
+   pages = {2895-2915},
+   abstract = {The subtropical to equatorial Atlantic Ocean provides a unique regime in which one can examine the biogeochemical cycles of antimony and arsenic. In particular, this region is strongly affected by inputs from the Amazon River and dust from North Africa at the surface, and horizontal transport at depth from high-latitude northern (e.g., North Atlantic Deep Water) and southern waters (e.g., Antarctic Bottom and Intermediate Waters). As a part of the 1996 Intergovernmental Oceanographic Commission's Contaminant Baseline Survey, data for dissolved As(III+V), As(III), mono- and dimethyl arsenic, Sb(III+V), Sb(III), and monomethyl antimony were obtained at six vertical profile stations and 44 sites along the 11,000&#xa0;km transect from Montevideo, Uruguay, to Bridgetown, Barbados. The arsenic results were similar to those in other oceans, with moderate surface depletion, deep-water enrichment, a predominance of arsenate (&gt;85% As(V)), and methylated arsenic species and As(III) in surface waters that are likely a result of phytoplankton conversions to mitigate arsenate “stress” (toxicity). Perhaps the most significant discovery in the arsenic results was the extremely low concentrations in the Amazon Plume (as low as 9.8&#xa0;nmol/l) that appear to extend for considerable distances offshore in the equatorial region. The very low concentration of inorganic arsenic in the Amazon River (2.8&#xa0;nmol/l; about half those in most rivers) is probably the result of intense iron oxyhydroxide scavenging. Dissolved antimony was also primarily in the pentavalent state (&gt;95% antimonate), but Sb(III) and monomethyl antimony were only detected in surface waters and displayed no correlations with biotic tracers such as nutrients and chlorophyll a. Unlike As(III+V)'s nutrient-type vertical profiles, Sb(III+V) displayed surface maxima and decreased into the deep waters, exhibiting the behavior of a scavenged element with a strong atmospheric input. While surface water Sb had a slight correlation with dissolved Al, it is likely that atmospheric Sb is delivered with combustion by-products and not from mineral aerosols. In the Amazon Plume, antimony concentrations dropped substantially, and an Amazon River sample had a concentration (0.25&#xa0;nmol/l) that was less than one-fourth those found in other major rivers. Using these river data, and estimates of atmospheric fluxes based on shipboard measurements and collections from Barbados, the atmospheric deposition of antimony to the equatorial Atlantic (2°S–8°N) is twice the Amazon flux, while the atmospheric deposition of arsenic is only 10% of the river's flux.},
+   year = {2001}
+}
+
+@incollection{
+   author = {de la Calle-Guntiñas, M. B. and Madrid, Y. and Cámara, C.},
+   title = {11. Antimony speciation in water},
+   booktitle = {Techniques and Instrumentation in Analytical Chemistry},
+   editor = {Ph. Quevauviller, E. A. Maier and Griepink, B.},
+   publisher = {Elsevier},
+   volume = {Volume 17},
+   pages = {263-283},
+   year = {1995}
+}
+
+@article{
+   author = {Fawcett, Skya E. and Jamieson, Heather E.},
+   title = {The distinction between ore processing and post-depositional transformation on the speciation of arsenic and antimony in mine waste and sediment},
+   journal = {Chem. Geol.},
+   volume = {283},
+   number = {Copyright (C) 2012 American Chemical Society (ACS). All Rights Reserved.},
+   pages = {109-118},
+   note = {CAPLUS AN 2011:411661(Journal; Online Computer File)},
+   abstract = {Roasting of As and Sb-assocd. gold ore at the Giant mine, Yellowknife, Canada, resulted in complex solid-gas phase reactions between As, Sb, and roaster-derived Fe oxides. Sb, As, and their resp. hosting in two roaster waste streams and mine-impacted sediment were characterized using EPMA, μXRD, μXRF, bulk and μXANES. The roaster oxides in mine waste and sediment host As and Sb in multiple oxidn. states. In the cyanided roaster dust (ESP residue - composed of fine-grained particles mobilized during roasting, and sublimated phases), 3+ is the dominant As and Sb oxidn. state in the bulk sample and in the roaster-generated iron oxides that host these elements. Conversely, 5+ is the dominant As and Sb oxidn. state in the bulk calcine (oxidized and cyanided material collected from the roaster bed), and in the roaster Fe oxide grains therein. These results have important implications for predicting the fate of As and Sb in the environment, and for distinguishing between anthropogenically-influenced speciation and speciation resulting from post-depositional transformations. As and Sb-bearing roaster iron oxides and other As and Sb-bearing phases in mine-impacted sediment collected from the surficial zone (0 to -1 cm) and relatively reducing zone (-16 cm) are also described. As and Sb assocd. with roaster oxides in the relatively reducing sediment have undergone post-depositional transformation and 10-20% of As and Sb are attenuated via pptn. as sulfide or sorption to sulfide surfaces. The attenuation of Sb is more efficient than As, and Sb is only mobile at the micron scale. In the relatively reducing sediment, where most of the As is reduced to As3+, Sb5+ bound to oxygen phase persists and represents 58% of the total Sb. [on SciFinder(R)]},
+   keywords = {mine waste arsenic antimony speciation gold ore processing Canada
+tailings contg sediment arsenic antimony speciation gold mine Canada},
+   year = {2011}
+}
+
+@article{
+   author = {Filella, Montserrat and Belzile, Nelson and Chen, Yu-Wei},
+   title = {Antimony in the environment: a review focused on natural waters: I. Occurrence},
+   journal = {Earth-Science Reviews},
+   volume = {57},
+   number = {1–2},
+   pages = {125-176},
+   abstract = {Antimony is ubiquitously present in the environment as a result of natural processes and human activities. It exists mainly as Sb(III) and Sb(V) in environmental, biological and geochemical samples. Antimony and its compounds are considered to be priority pollutants interest by the USEPA and the EU. In this first review paper on antimony occurrence in natural waters, 420 papers on freshwaters, marine waters, estuaries, soils, and sediments have been reviewed. All data are quoted from the original sources. Typical concentrations of total dissolved antimony are usually less than 1.0 μg/l in non-polluted waters. When redox speciation determinations are performed, most studies report the dominance of Sb(V) under oxic conditions. However, the presence of significant proportions of Sb(III) is sometimes detected. This is in contrast with thermodynamic equilibrium predictions and discrepancies are often attributed to biological activity or kinetic effects but proofs are lacking. Similarly, the existence of Sb(V), although not thermodynamically predicted, is often reported under anoxic conditions. Low concentrations of methylated antimony species are mentioned in a few studies. Antimony is not considered to be a highly reactive element in oceans, with concentrations of the order of 200 ng/l. In estuarine waters, both conservative and non-conservative behaviours are reported depending on the estuaries' characteristics. Elevated concentrations of antimony in soils and sediments are either related to anthropogenic sources or associated with high arsenic concentrations in sulfidic ores. Antimony appears to be highly unreactive in soils. Low accumulation factors are reported in algae. Airborne supply of antimony to aquatic and terrestrial systems seems to be important in systems far from direct pollution sources. However, the limited available data do not allow firm conclusions to be drawn on the reactivity and cycling of the element in natural systems and a list of research priorities is given.},
+   keywords = {antimony
+freshwater
+seawater
+estuaries
+sediments
+soils
+speciation},
+   year = {2002}
+}
+
+@article{
+   author = {Filella, Montserrat and Belzile, Nelson and Chen, Yu-Wei},
+   title = {Antimony in the environment: a review focused on natural waters: I. Occurrence},
+   journal = {Earth-Science Reviews},
+   volume = {57},
+   number = {1–2},
+   pages = {125-176},
+   abstract = {Antimony is ubiquitously present in the environment as a result of natural processes and human activities. It exists mainly as Sb(III) and Sb(V) in environmental, biological and geochemical samples. Antimony and its compounds are considered to be priority pollutants interest by the USEPA and the EU. In this first review paper on antimony occurrence in natural waters, 420 papers on freshwaters, marine waters, estuaries, soils, and sediments have been reviewed. All data are quoted from the original sources. Typical concentrations of total dissolved antimony are usually less than 1.0 μg/l in non-polluted waters. When redox speciation determinations are performed, most studies report the dominance of Sb(V) under oxic conditions. However, the presence of significant proportions of Sb(III) is sometimes detected. This is in contrast with thermodynamic equilibrium predictions and discrepancies are often attributed to biological activity or kinetic effects but proofs are lacking. Similarly, the existence of Sb(V), although not thermodynamically predicted, is often reported under anoxic conditions. Low concentrations of methylated antimony species are mentioned in a few studies. Antimony is not considered to be a highly reactive element in oceans, with concentrations of the order of 200 ng/l. In estuarine waters, both conservative and non-conservative behaviours are reported depending on the estuaries' characteristics. Elevated concentrations of antimony in soils and sediments are either related to anthropogenic sources or associated with high arsenic concentrations in sulfidic ores. Antimony appears to be highly unreactive in soils. Low accumulation factors are reported in algae. Airborne supply of antimony to aquatic and terrestrial systems seems to be important in systems far from direct pollution sources. However, the limited available data do not allow firm conclusions to be drawn on the reactivity and cycling of the element in natural systems and a list of research priorities is given.},
+   keywords = {antimony
+freshwater
+seawater
+estuaries
+sediments
+soils
+speciation},
+   year = {2002}
+}
+
+@article{
+   author = {Fu, Zhiyou and Wu, Fengchang and Amarasiriwardena, Dulasiri and Mo, Changli and Liu, Bijun and Zhu, Jing and Deng, Qiujing and Liao, Haiqing},
+   title = {Antimony, arsenic and mercury in the aquatic environment and fish in a large antimony mining area in Hunan, China},
+   journal = {Science of The Total Environment},
+   volume = {408},
+   number = {16},
+   pages = {3403-3410},
+   abstract = {Antimony (Sb) has received increasing attention recently due to its toxicity and potential human carcinogenicity. In the present work, drinking water, fish and algae samples were collected from the Xikuangshan (XKS) Sb mine area in Hunan, China. Results show that serious Sb and moderate arsenic (As) contamination is present in the aquatic environment. The average Sb concentrations in water and fish were 53.6&#xa0;±&#xa0;46.7&#xa0;μg&#xa0;L−&#xa0;1 and 218&#xa0;±&#xa0;113&#xa0;μg&#xa0;kg−&#xa0;1 dry weight, respectively. The Sb concentration in drinking water exceeded both Chinese and WHO drinking water guidelines by 13 and 3 times, respectively. Antimony and As concentrations in water varied with seasons. Fish gills exhibited the highest Sb concentrations but the extent of accumulation varied with habitat. Antimony enrichment in fish was significantly lower than that of As and Hg.},
+   keywords = {Antimony (Sb)
+Arsenic (As)
+Mercury (Hg)
+Pollution
+Water
+Fish
+Sb mining/smelting area},
+   year = {2010}
+}
+
+@article{
+   author = {Fu, Zhiyou and Wu, Fengchang and Mo, Changli and Liu, Bijun and Zhu, Jing and Deng, Qiujing and Liao, Haiqing and Zhang, Yongsan},
+   title = {Bioaccumulation of antimony, arsenic, and mercury in the vicinities of a large antimony mine, China},
+   journal = {Microchemical Journal},
+   volume = {97},
+   number = {1},
+   pages = {12-19},
+   abstract = {To study the characteristics of antimony (Sb) bioaccumulation under high Sb background values, aquatic, amphibious and terrestrial biological samples were collected in the vicinity of the Xikuangshan (XKS) Sb mine area in China. Hydride generation-atomic fluorescence (HG-AFS) analysis showed that Sb concentrations in terrestrial invertebrates (average 30,400&#xa0;μg&#xa0;kg−&#xa0;1 dry wt.) were higher than those in aquatic (average 5200&#xa0;μg&#xa0;kg−&#xa0;1 dry wt.) and amphibian (average 2300&#xa0;μg&#xa0;kg−&#xa0;1 dry wt.) biological samples. Within 1&#xa0;km distance of the XKS Sb mine area, grasshoppers (Acrida chinensis) and earthworms (Pheretima aspergillum) had the highest Sb amounts of 17,300&#xa0;±3200 and 43,600&#xa0;±&#xa0;47,700&#xa0;μg&#xa0;kg−&#xa0;1 dry wt., respectively. No Sb biomagnifications were observed. The bioavailability of Sb was found to be lower than those of As and Hg. A preliminary conclusion is that antagonistic effects exist between Sb and Hg accumulation in biological samples from aquatic environments. Our study is the first to report such antagonistic effects between Sb and Hg. If this deduction proves to be correct, it should be taken into consideration in assessing human health risks, especially when Sb and Hg concentrations in the aquatic environments are high.},
+   keywords = {Antimony (Sb)
+Arsenic (As)
+Mercury (Hg)
+Pollution
+Bioaccumulation
+Antagonism
+Sb mining/smelting area},
+   year = {2011}
+}
+
+@article{
+   author = {Gebel, T.},
+   title = {Arsenic and antimony: comparative approach on mechanistic toxicology},
+   journal = {Chemico-Biological Interactions},
+   volume = {107},
+   number = {3},
+   pages = {131-144},
+   abstract = {A chemico-toxicological similarity between arsenic and antimony exists and their toxicology is often seen. Indeed, both elements possess several common properties, e.g. they are clastogenic but not mutagenic in the trivalent state and they have a carcinogenic potential: trivalent arsenicals are known to be human carcinogens and antimony(III) oxide (by inhalation) has been shown to cause lung cancer in female rats. For years, arsenic has been known to be environmentally toxic. Elevated human exposure to this element, mostly caused by the intake of contaminated tap water, is associated with increased incidences of cancer at various sites. It is still not clear how arsenic compounds exert their genotoxic effect. It may be connected with an inhibition of DNA repair or the induction of oxidative stress. Little work has been done on the toxicology of antimony as it is less widely present in the environment. There is evidence that in mammals antimony, unlike arsenic, is not detoxified via methylation but it still remains unclear what mechanism is responsible for antimony's genotoxicity. In general, there is little information known about this element to accurately determine its impact on human health. Thus, the aim of this paper is to review current knowledge for future risk assessment and further scientific work.},
+   keywords = {Arsenic
+Antimony
+Genotoxicity
+Toxicology},
+   year = {1997}
+}
+
+@article{
+   author = {Gemici, Ünsal and Tarcan, Gültekin},
+   title = {Assessment of the Pollutants in Farming Soils and Waters Around Untreated Abandoned Türkönü Mercury Mine (Turkey)},
+   journal = {Bulletin of Environmental Contamination and Toxicology},
+   volume = {79},
+   number = {1},
+   pages = {20-24},
+   abstract = {There are several abandoned Hg mines located in western Turkey. Hg production in these mines was eventually halted in the early 1990s because of low prices and environmental concerns (Gemici, 2004 ). However, acid mine drainage waste causes potential environmental problems near the Hg mines. In T�rk�n� Hg mine (Fig. 1) nearly 7,000 flasks of mercury had been produced in recent years. In 1965 a private company began to investigate the deposit and by 1968 had installed a 100-tpd rotary furnace. Since, the ore supply has been inadequate and the furnace plant used to process ore hauled from other deposits. Mercury production was terminated in 1975, owing to low prices, and in 1976 the furnace plant was used to process antimony ore (Yıldız and Bailey, 1978 ). Areas near the mine are currently being used for agricultural purposes. Soils are directly influenced by contaminants, leaching from the mine wastes, which are transported by surface waters in the rainy season. The aim of this study is to evaluate the geochemical dispersal within soil and water,of Hg derived from the abandoned T�rk�n� mine relating to past mining activities.},
+   keywords = {Earth and Environmental Science},
+   year = {2007}
+}
+
+@article{
+   author = {Grahn, E. and Karlsson, S. and Karlsson, U. and Dueker, A.},
+   title = {Historical pollution of seldom monitored trace elements in Sweden - Part B: Sediment analysis of silver, antimony, thallium and indium},
+   journal = {J. Environ. Monit.},
+   volume = {8},
+   number = {Copyright (C) 2012 American Chemical Society (ACS). All Rights Reserved.},
+   pages = {732-744},
+   note = {CAPLUS AN 2006:654129(Journal)},
+   abstract = {Sediment cores from 4 remote, boreal in a south to north transect, central Sweden, were analyzed for acid leachable Ag, Sb, Tl, and In in the solid sediment phase and corresponding pore water. Cores were dated using their acid-leachable Pb content and 206Pb:207Pb ratio; in 1 lake, also by 210Pb. The impact of diagenesis on element re-distribution in sediment was included and found to be minor except for Tl. Results showed lower concns. toward the north and most intense accumulation after World War II, evidence for atm. deposition as the primary source. In had declining concns. in recent strata while Ag and Sb increased; Tl had lower acid-leachable concns. in recent strata. For all metals the impact of domestic industrialization and early industrialization of central Europe was discernible. Only Tl appeared to reach a geol. background at depths corresponding to the late 18th century. For the other metals, elevated concns. were concluded. [on SciFinder(R)]},
+   keywords = {trace element historical pollution water sediment boreal lake Sweden},
+   year = {2006}
+}
+
+@article{
+   author = {Heier, Lene Sørlie and Lien, Ivar B. and Strømseng, Arnljot E. and Ljønes, Marita and Rosseland, Bjørn Olav and Tollefsen, Knut-Erik and Salbu, Brit},
+   title = {Speciation of lead, copper, zinc and antimony in water draining a shooting range—Time dependant metal accumulation and biomarker responses in brown trout (Salmo trutta L.)},
+   journal = {Science of The Total Environment},
+   volume = {407},
+   number = {13},
+   pages = {4047-4055},
+   abstract = {The speciation of Pb, Cu, Zn and Sb in a shooting range run-off stream were studied during a period of 23 days. In addition, metal accumulation in gills and liver, red blood cell ALA-D activity, hepatic metallothionine (Cd/Zn-MT) and oxidative stress index (GSSG/ tGSH levels) in brown trout (Salmo trutta L.) exposed to the stream were investigated. Fish, contained in cages, were exposed and sampled after 0, 2, 4, 7, 9, 11 and 23 days of exposure. Trace metals in the water were fractionated in situ according to size (nominal molecular mass) and charge properties. During the experimental period an episode with higher runoff occurred resulting in increased levels of metals in the stream. Pb and Cu were mainly found as high molecular mass species, while Zn and Sb were mostly present as low molecular mass species. Pb, Cu and Sb accumulated on gills, in addition to Al origination from natural sources in the catchment. Pb, Cu and Sb were also detected at elevated concentration in the liver. Blood glucose and plasma Na and Cl levels were significantly altered during the exposure period, and are attributed to elevated concentrations of Pb, Cu and Al. A significant suppression of ALA-D was detected after 11 days. Significant differences were detected in Cd/Zn-MT and oxidative stress (tGSH/GSSG) responses at Day 4. For Pb the results show a clear link between the HMM (high molecular mass) positively charged Pb species, followed by accumulation on gills and liver and a suppression in ALA-D. Thus, high flow episodes can remobilise metals from the catchment, inducing stress to aquatic organisms.},
+   keywords = {Metals
+Speciation
+Brown trout
+Metal accumulation
+Biomarker response},
+   year = {2009}
+}
+
+@article{
+   author = {Hiller, Edgar and Lalinská, Bronislava and Chovan, Martin and Jurkovič, Ľubomír and Klimko, Tomáš and Jankulár, Michal and Hovorič, Róbert and Šottník, Peter and Fľaková, Renáta and Ženišová, Zlatica and Ondrejková, Ivana},
+   title = {Arsenic and antimony contamination of waters, stream sediments and soils in the vicinity of abandoned antimony mines in the Western Carpathians, Slovakia},
+   journal = {Applied Geochemistry},
+   volume = {27},
+   number = {3},
+   pages = {598-614},
+   abstract = {Environmental contamination with As and Sb caused by past mining activities at Sb mines is a&#xa0;significant problem in Slovakia. This study is focused on the environmental effects of the 5 abandoned Sb mines on water, stream sediment and soil since the mines are situated in the close vicinity of residential areas. Samples of mine wastes, various types of waters, stream sediments, soils, and leachates of the mine wastes, stream sediments and selected soils were analyzed for As and Sb to evaluate their geochemical dispersion from the mines. Mine wastes collected at the mine sites contained up to 5166&#xa0;mg/kg As and 9861&#xa0;mg/kg Sb. Arsenic in mine wastes was associated mostly with Fe oxides, whereas Sb was present frequently in the form of individual Sb, Sb(Fe) and Fe(Sb) oxides. Waters of different types such as groundwater, surface waters and mine waters, all contained elevated concentrations of As and Sb, reaching up to 2150&#xa0;μg/L As and 9300&#xa0;μg/L Sb, and had circum-neutral pH values because of the buffering capacity of abundant Ca- and Mg-carbonates. The concentrations of Sb in several household wells are a cause for concern, exceeding the Sb drinking water limit of 5&#xa0;μg/L by as much as 25&#xa0;times. Some attenuation of the As and Sb concentrations in mine and impoundment waters was expected because of the deposition of metalloids onto hydrous ferric oxides built up below adit entrances and impoundment discharges. These HFOs contained&#xa0;&gt;20&#xa0;wt.% As and 1.5&#xa0;wt.% Sb. Stream sediments and soils have also been contaminated by As and Sb with the peak concentrations generally found near open adits and mine wastes. In addition to the discharged waters from open adits, the significant source of As and Sb contamination are waste-rock dumps and tailings impoundments. Leachates from mine wastes contained as much as 8400&#xa0;μg/L As and 4060&#xa0;μg/L Sb, suggesting that the mine wastes would have a great potential to contaminate the downstream environment. Moreover, the results of water leaching tests showed that Sb was released from the solids more efficiently than As under oxidizing conditions. This might partly explain the predominance of Sb over As in most water samples.},
+   year = {2012}
+}
+
+@article{
+   author = {Iijima, A. and Sato, K. and Fujitani, Y. and Fujimori, E. and Saito, Y. and Tanabe, K. and Ohara, T. and Kozawa, K. and Furuta, N.},
+   title = {Clarification of the predominant emission sources of antimony in airborne particulate matter and estimation of their effects on the atmosphere in Japan},
+   journal = {Environmental Chemistry},
+   volume = {6},
+   number = {2},
+   pages = {122-132},
+   abstract = {Environmental context. The remarkable enrichment of potentially toxic antimony (Sb) in inhalable airborne particulate matter has become of great environmental concern among recent air pollution issues. The present study clarifies the predominant sources of Sb by focusing on the similarities in elemental composition, particle size distributions, and microscopic images found in ambient airborne particles and several potential sources. We identify automotive brake abrasion dust and fly ash emitted from waste incineration as dominant sources of atmospheric Sb in Japan. These results will contribute towards an in-depth understanding of the cycles and fates of Sb in the environment. Abstract. By focusing on the similarities in elemental composition, particle size distributions of elemental concentrations, and microscopic images between ambient airborne particulate matter (APM) and several potential sources, we discuss the predominant sources of antimony (Sb) in APM in Japan. The distribution of Sb concentration in size-classified ambient APM showed a characteristic bimodal profile in which peaks were found in coarse (3.6–5.2 μm) and fine (0.5–0.7 μm) fractions. Elemental ratios, particle sizes, and microscopic images observed in the coarse APM fractions were found to be in good agreement with those of brake abrasion dust. However, in the fine APM fractions, fly ash originating from waste incineration was identified as the most probable source of Sb. Chemical mass balance analysis was performed to determine the effects of the emission sources of Sb, and it was revealed that brake abrasion dust and waste fly ash were the dominant sources of Sb in the coarser and the finer fractions of APM, respectively. The present study provides important clues to understanding the cycles and fates of Sb in the environment.},
+   keywords = {brake abrasion dust, elemental ratio, microscopic image, particle size distribution, waste fly ash.},
+   year = {2009}
+}
+
+@article{
+   author = {Isamatov, E. I. and Kist, A. A. and Kulmatov, R. A. and Rakhmatov, U. and Volkov, A. A.},
+   title = {Experimental modeling of antimony and chromium species found in the waters of the Syr Darya river, in the mixing zone with seawater and in the water of the Aral Sea by radionuclides antimony(V)-124 and chromium(VI)-51},
+   journal = {Radiokhimiya},
+   volume = {28},
+   number = {Copyright (C) 2012 American Chemical Society (ACS). All Rights Reserved.},
+   pages = {229-31},
+   note = {CAPLUS AN 1986:429489(Journal)},
+   abstract = {In the water of the Syr Darya River, its estuary, and the Aral Sea, the main quantity of 124Sb and 51Cr migrate as Sb(OH)6- and CrO42-. However, the formation of finely dispersed colloidal forms of 51Cr(VI) and 124Sb(V) is possible in the estuary due to their sorption on plant cellular tissue. [on SciFinder(R)]},
+   keywords = {antimony migration river estuary seawater
+chromium water Syr Darya USSR
+estuarine water antimony chromium USSR
+seawater antimony chromium Aral Sea},
+   year = {1986}
+}
+
+@article{
+   author = {Jenkins, Richard O. and Craig, Peter J. and Goessler, Walter and Miller, David and Ostah, Naaman and Irgolic, Kurt J.},
+   title = {Biomethylation of Inorganic Antimony Compounds by an Aerobic Fungus:  Scopulariopsis brevicaulis},
+   journal = {Environmental Science & Technology},
+   volume = {32},
+   number = {7},
+   pages = {882-885},
+   abstract = {Various metals and metalloids can be converted by a variety of microorganisms to their volatile methyl derivatives. These bioconversions are important from an environmental perspective because they take place over long time periods and the products have quite different properties (e.g., transportation, toxicological) as compared to the inorganic species from which they are derived. Whereas the biomethylation of arsenic is well established, that of the closely related element antimony is not, and there are no reports of antimony methylation by monoseptic microbial cultures. We report here, for the first time, the formation of trimethylantimony [(CH3)3Sb] by a characterized microorganism, Scopulariopsis brevicaulis, grown aerobically in the presence of inorganic antimony. Volatile antimony evolved into the headspace above the fungal cultures was quantified by remote trapping and analysis by inductively coupled plasma?mass spectrometry (ICP?MS). The existence of biogenic trimethylantimony was established, following exclusion of oxygen from cultures after growth, by remote trapping of volatile compounds and analysis by gas chromatography with compound-specific (mass spectrometry) or element-specific (atomic absorption) detec tion. No other volatile product containing antimony was detected in culture headspace gases.},
+   year = {1998}
+}
+
+@article{
+   author = {Kawamoto, Y. and Morisawa, S.},
+   title = {The distribution and speciation of antimony in river water, sediment and biota in Yodo River, Japan},
+   journal = {Environ Technol},
+   volume = {24},
+   number = {Copyright (C) 2012 U.S. National Library of Medicine.},
+   pages = {1349-56},
+   note = {MEDLINE AN 2004033398(Journal; Article; (JOURNAL ARTICLE); (RESEARCH SUPPORT, NON-U.S. GOV'T))},
+   abstract = {In 1993, the Japanese government set the guideline concentration of 2 microg l(-1) for antimony in natural water and drinking water as an item for precautionary monitoring in consideration of its chronic toxicity, however in 1999 the guideline value was tentatively canceled to examine the health risk of antimony through the accumulation of more information and data for detailed risk assessment. In this study, the distribution of antimony in the river water environment including water, sediment, aquatic plants and fishes was surveyed in the Yodo River basin. The characteristics of antimony distribution between river water and sediment were determined by the batch sorption experiments, focusing on the difference in oxidation state. This study suggests that biota in the Yodo River basin have antimony at concentrated levels. Some of the sewage treatment plants seemed to influence the concentration of antimony in river water. It was shown that the pentavalent antimony is dominant in river water and especially paramount downstream of the sewage treatment plants, though the trivalent antimony is dominant in industrial use. According to the sorption experiments of antimony on river sediment, the trivalent antimony is sorbed faster and more in partition than the pentavalent antimony.[on SciFinder (R)]},
+   year = {2003}
+}
+
+@article{
+   author = {Kelepertsis, A. and Alexakis, D. and Skordas, K.},
+   title = {Arsenic, antimony and other toxic elements in the drinking water of Eastern Thessaly in Greece and its possible effects on human health},
+   journal = {Environmental Geology},
+   volume = {50},
+   number = {1},
+   pages = {76-84},
+   keywords = {Earth and Environmental Science},
+   year = {2006}
+}
+
+@article{
+   author = {Klitzke, Sondra and Lang, Friederike},
+   title = {Mobilization of soluble and dispersible lead, arsenic, and antimony in a polluted, organic-rich soil - effects of pH increase and counterion valency},
+   journal = {J. Environ. Qual.},
+   volume = {38},
+   number = {Copyright (C) 2012 American Chemical Society (ACS). All Rights Reserved.},
+   pages = {933-939},
+   note = {CAPLUS AN 2009:585171(Journal)},
+   abstract = {Liming is a common technique suggested for the stabilization of shooting range sites. The effect of an increase in pH on the mobilization of sol. and dispersible (colloidal) Pb, As, and Sb was evaluated. The addn. of divalent cations counteracts the pH-induced mobilization of sol. and colloidal metal(loid)s. Sol. (operationally defined as the fraction < 10 nm obtained after centrifugation) and dispersible (filter cut-off 1200 nm) As, Pb, Sb, Fe, and Corg concns. were detd. in the filtered suspensions of batch exts. of topsoil samples (Corg: 8%) from a former shooting range site following a pH increase to values between 3.5 and 7 by adding a monovalent (KOH) or a divalent (Ca(OH)2) base. In the Ca(OH)2-treated samples, dissolved metal(loid) concns. were 62 to 98% lower than those titrated with KOH to similar pH. Similarly, Ca reduced the concn. of dispersible Pb by 95%, but had little or no impact on dispersible As and Sb. Thus, the counterion valency controls the mobility of metal(loid)s by affecting the mobility and sorption capacity of the sorbents (e.g., colloids, org. matter). [on SciFinder(R)]},
+   keywords = {antimony arsenic lead mobilization polluted soil pH counterion valency},
+   year = {2009}
+}
+
+@article{
+   author = {Krachler, Michael and Zheng, Jiancheng and Fisher, David and Shotyk, William},
+   title = {Atmospheric Sb in the Arctic during the past 16,000 years: Responses to climate change and human impacts},
+   journal = {Global Biogeochem. Cycles},
+   volume = {22},
+   number = {1},
+   pages = {GB1015},
+   abstract = {Applying strict clean room procedures and sector field inductively coupled plasma mass spectrometry (ICP-MS) methods, concentrations of Sb and Sc were determined in 57 sections of a 170.6-m-long ice core drilled on Devon Island, Arctic Canada, in 1999, providing a record of atmospheric Sb extending back 15,800 years. Natural background concentrations of Sb and Sc established during the period between 1300 years BP and 10,590 years BP averaged 0.08 ± 0.03 pg/g (N = 18) and 0.44 ± 0.20 pg/g (N = 17), respectively. Scandium, a conservative reference element, was used as a surrogate for mineral dust inputs. The Sb/Sc ratio of 0.13 ± 0.07 in these ancient ice samples is comparable to the corresponding ratio of 0.09 ± 0.03 in peat samples from Switzerland from circa 6000 to 9000 years BP, indicating that this natural background ratio might have a much broader validity. The natural background flux of Sb (0.7 ± 0.5 ng/m2/a) in the Arctic was approximately 500 times lower than that established in central Europe using peat cores. For comparison with background values, modern Sb fluxes calculated using 45 samples from a 5-m snow pit dug on Devon Island in 2004, reflecting 10 years of snow accumulation, yielded an average deposition rate of 340 ± 270 ng/m2/a (range: 20&#8211;1240 ng/m2/a) with pronounced accumulation of Sb during winter periods when air masses reaching the Arctic predominantly come from Eurasia. These data reveal that approximately 99.8% of the Sb deposited in the Arctic today originates from anthropogenic activities. Modern Sb enrichment factors averaged 25 (range: 8&#8211;121). The ice core provides evidence of Sb contamination dating from Phoenician/Greek, Roman, and medieval lead mining and smelting in Europe. Moreover, the ice core data indicate that anthropogenic sources of Sb have continuously dominated the atmospheric inputs to the Arctic for at least 700 years.},
+   keywords = {antimony
+Arctic
+ice core
+1030 Geochemistry: Geochemical cycles
+0489 Biogeosciences: Trace element cycling
+0724 Cryosphere: Ice cores
+0432 Biogeosciences: Contaminant and organic biogeochemistry},
+   year = {2008}
+}
+
+@article{
+   author = {Krachler, Michael and Zheng, James and Koerner, Roy and Zdanowicz, Christian and Fisher, David and Shotyk, William},
+   title = {Increasing atmospheric antimony contamination in the northern hemisphere: snow and ice evidence from Devon Island, Arctic Canada},
+   journal = {Journal of Environmental Monitoring},
+   volume = {7},
+   number = {12},
+   pages = {1169-1176},
+   abstract = {Adopting recently developed clean laboratory techniques, antimony (Sb) and scandium (Sc) deposition were measured in a 63.72 m-long ice core (1842-1996) and a 5 m deep snow pit (1994-2004) collected on Devon Island, Canadian High Arctic. Antimony concentrations ranged from 0.07 to 108 pg g with a median of 0.98 pg g ( = 510). Scandium, used as a conservative reference element, revealed that dust inputs were effectively constant during the last 160 years. The atmospheric Sb signal preserved in the ice core reflects contamination from industrialisation, the economic boom which followed WWII, as well as the comparatively recent introduction of flue gas filter technologies and emission reduction efforts. Natural contributions to the total Sb inventory are negligible, meaning that anthropogenic emissions have dominated atmospheric Sb deposition throughout the entire period. The seasonal resolution of the snow pit showed that aerosols deposited during the Arctic winter, when air masses are derived mainly from Eurasia, show the greatest Sb concentrations. Deposition during summer, when air masses come mainly from North America, is still enriched in Sb, but less so. Snow and ice provide unambiguous evidence that enrichments of Sb in Arctic air have increased 50% during the past three decades, with two-thirds being deposited during winter. Most Sb is produced in Asia, primarily from Sb sulfides such as stibnite (SbS), but also as a by-product of lead and copper smelting. In addition there is a growing worldwide use of Sb in automobile brake pads, plastics and flame retardants. In contrast to Pb which has gone into decline during the same interval because of the gradual elimination of gasoline lead additives, the enrichments of Sb have been increasing and today clearly exceed those of Pb. Given that the toxicity of Sb is comparable to that of Pb, Sb has now replaced Pb in the rank of potentially toxic trace metals in the Arctic atmosphere.},
+   year = {2005}
+}
+
+@article{
+   author = {Leuz, Ann-Kathrin and Mönch, Hermann and Johnson, C. Annette},
+   title = {Sorption of Sb(III) and Sb(V) to Goethite:  Influence on Sb(III) Oxidation and Mobilization†},
+   journal = {Environmental Science & Technology},
+   volume = {40},
+   number = {23},
+   pages = {7277-7282},
+   abstract = {Antimony is an element of growing interest for a variety of industrial applications, even though Sb compounds are classified as priority pollutants by the Environmental Protection Agency of the United States. Iron (Fe) hydroxides appear to be important sorbents for Sb in soils and sediments, but mineral surfaces can also catalyze oxidation processes and may thus mobilize Sb. The aim of this study was to investigate whether goethite immobilizes Sb by sorption or whether Sb(III) adsorbed on goethite is oxidized and then released. The sorption of both Sb(III) and Sb(V) on goethite was studied in 0.01 and 0.1 M KClO4 M solutions as a function of pH and Sb concentration. To monitor oxidation processes Sb species were measured in solution and in the solid phase. The results show that both Sb(III) and Sb(V) form inner-sphere surface complexes at the goethite surface. Antimony(III) strongly adsorbs on goethite over a wide pH range (3?12), whereas maximum Sb(V) adsorption is found below pH 7. At higher ionic strength, the desorption of Sb(V) is shifted to lower pH values, most likely due to the formation of ion pairs KSb(OH)6°. The sorption data of Sb(V) can be fitted by the modified triple-layer surface complexation model. Within 7 days, Sb(III) adsorbed on goethite is partly oxidized at pH 3, 5.9 and 9.7. The weak pH-dependence of the rate coefficients suggests that adsorbed Sb(III) is oxidized by O2 and that the coordination of Sb(III) to the surface increases the electron density of the Sb atom, which enhances the oxidation process. At pH values below pH 7, the oxidation of Sb(III) did not mobilize Sb within 35 days, while 30% of adsorbed Sb(III) was released into the solution at pH 9.9 within the same time. The adsorption of Sb(III) on Fe hydroxides over a wide pH range may be a major pathway for the oxidation and release of Sb(V).},
+   year = {2006}
+}
+
+@article{
+   author = {Mueller, Karsten and Daus, Birgit and Morgenstern, Peter and Wennrich, Rainer},
+   title = {Mobilization of Antimony and Arsenic in Soil and Sediment Samples - Evaluation of Different Leaching Procedures},
+   journal = {Water, Air, Soil Pollut.},
+   volume = {183},
+   number = {Copyright (C) 2012 American Chemical Society (ACS). All Rights Reserved.},
+   pages = {427-436},
+   note = {CAPLUS AN 2007:592827(Journal)},
+   abstract = {This study evaluates the performance of different leaching schemes with respect to the mobilization of Sb and As from polluted samples collected at different sites in Mansfeld District, Germany. Besides the elution by water the leaching by artificial acidic rain and by 2 different schemes of sequential extn. were used for the estn. of the mobilization of Sb and As. The samples were characterized by x-ray fluorescence anal. for their total concn. of metalloids, metals and main constituents. It was found that both Sb and As show little mobilization with de-ionized water as well as artificial acidic rain in single step batch procedures (≤0.13% of the total content). Although the percentage leached is very low, the concns. in the resulting solns. are of ecotoxicol. relevance. BCR procedure indicate a very strong binding of Sb and of As in the samples. Less than 20% of the total content can be leached in sum in all leaching steps, of it most under strongly oxidizing conditions. This scheme seems not suitable for a detailed study of possible mobilization processes under environmental conditions for the metalloids under study. The 4-step extn. procedure by Wenzel et al. gives a more detailed pattern of the binding of Sb and As. This procedure is a suitable scheme for evaluating the possible mobilization processes from the samples contaminated by ore processing waste, esp. by change through other ions or under reducing conditions. [on SciFinder(R)]},
+   keywords = {mobilization antimony arsenic soil sediment leaching procedure},
+   year = {2007}
+}
+
+@article{
+   author = {Niedzielski, P. and Siepak, M.},
+   title = {The occurrence and speciation of arsenic, antimony, and selenium in ground water of Poznań city (Poland)},
+   journal = {Chemistry & Ecology},
+   volume = {21},
+   number = {4},
+   pages = {241-253},
+   note = {Niedzielski, P. 1 Siepak, M. 2; Email Address: siep@amu.edu.pl; Affiliation: 1: Department of Water and Soil Analysis, Adam Mickiewicz University, 24 Drzymały Street, 60-613, Poznań, Poland 2: Department of Hydrogeology and Water Protection, Adam Mickiewicz University, 16 Maków Polnych Street, 61-686, Poznań, Poland; Source Info: Aug2005, Vol. 21 Issue 4, p241; Subject Term: GROUNDWATER; Subject Term: NATIVE element minerals; Subject Term: SELENIUM; Subject Term: ARSENIC; Subject Term: ANTIMONY; Subject Term: POLAND; Author-Supplied Keyword: Antimony; Author-Supplied Keyword: Ground water; Author-Supplied Keyword: Selenium; Author-Supplied Keyword: Speciation analysis; Number of Pages: 13p; Document Type: Article},
+   abstract = {This paper presents results of determination of total arsenic, antimony, and selenium contents as well as their species in ground water from the region of Poznań. Determinations were carried by means of atomic absorption spectrometry hyphenated with generation of hydrides and in situ preconcentration in a graphite tube (HG-GFAAS). In order to obtain the best efficiency of an analyte concentration process on the walls of the tube, palladium was used as a modifying agent. The concentration of total arsenic was up to 2.04 ng ml -1 , that of antimony up to 0.71 ng ml -1 , and that of selenium up to 0.44 ng ml -1 . The lowest concentrations of the investigated elements in ground water and the predominance of As(III), Sb(III), and Se(IV) speciation forms over As(V), Sb(V), and Se(VI) forms were found in the region, where the thickest aquitards (glacial tills of the Vistulian Glaciation) overlay an aquifer. Moreover, the geological and hydrogeological conditions of the study area are presented. [ABSTRACT FROM AUTHOR]
+Copyright of Chemistry & Ecology is the property of Taylor & Francis Ltd and its content may not be copied or emailed to multiple sites or posted to a listserv without the copyright holder's express written permission. However, users may print, download, or email articles for individual use. This abstract may be abridged. No warranty is given about the accuracy of the copy. Users should refer to the original published version of the material for the full abstract. (Copyright applies to all Abstracts.)},
+   keywords = {GROUNDWATER
+NATIVE element minerals
+SELENIUM
+ARSENIC
+ANTIMONY
+POLAND
+Ground water
+Speciation analysis},
+   year = {2005}
+}
+
+@article{
+   author = {Okkenhaug, Gudny and Zhu, Yong-Guan and He, Junwen and Li, Xi and Luo, Lei and Mulder, Jan},
+   title = {Antimony (Sb) and arsenic (As) in Sb mining impacted paddy soil from Xikuangshan, China: Differences in mechanisms controlling soil sequestration and uptake in rice},
+   journal = {Environ. Sci. Technol.},
+   number = {Copyright (C) 2012 American Chemical Society (ACS). All Rights Reserved.},
+   pages = {Ahead of Print},
+   note = {CAPLUS AN 2012:180830(Journal)},
+   abstract = {Foods produced on soils impacted by antimony (Sb) mining activities are a potential health risk due to plant uptake of the contaminant metalloids (Sb) and arsenic (As). Here we report for the first time the chem. speciation of Sb in soil and porewater of flooded paddy soil, impacted by active Sb mining, and its effect on uptake and speciation in rice plants (Oryza sativa L. cv Jiahua). Results are compared with behavior and uptake of As. Pot expts. were conducted under controlled conditions in a climate chamber over a period of 50 days. In pots without rice plants, flooding increased both the concn. of dissolved Sb (up to ca 2000 μg L-1) and As (up to ca 1500 μg L-1). When rice was present, Fe plaque developing on rice roots acted as a scavenger for both As and Sb, whereby the concn. of As, but not Sb, in porewater decreased substantially. Dissolved Sb in porewater, which occurred mainly as Sb(V), correlated with Ca, indicating a soly. governed by Ca antimonate. No significant differences in bioaccumulation factor and translocation factor between Sb and As were obsd. Greater relative concn. of Sb(V) was found in rice shoots compared to rice root and porewater, indicating either a preferred uptake of Sb(V) or possibly an oxidn. of Sb(III) to Sb(V) in shoots. Adding soil amendments (olivine, hematite) to the paddy soil had no effect on Sb and As concns. in porewater. [on SciFinder(R)]},
+
+}
+
+@article{
+   author = {Oorts, Koen and Smolders, Erik},
+   title = {Ecological threshold concentrations for antimony in water and soil},
+   journal = {Environ. Chem.},
+   volume = {6},
+   number = {Copyright (C) 2012 American Chemical Society (ACS). All Rights Reserved.},
+   pages = {116-121},
+   note = {CAPLUS AN 2009:808942(Journal; Online Computer File)},
+   abstract = {Ecol. relevant threshold concns. for antimony are required in order to assess the potential risks of anthropogenic emissions of Sb to the environment. The present paper reports a summary of the ecotoxicity data available for various Sb substances and discusses the derivation of ecol. threshold concns. for Sb in freshwater and soils. Data from tests with SbCl3 are useful for the calcn. of Sb toxicity thresholds in water. The results from SbCl3 in soil toxicity tests have little relevance because of demonstrated confounding factors of pH and salinity. The derivation of Sb threshold concns. in soil was, therefore, based on toxicity tests in soils amended with the sparingly sol. Sb2O3 with correction for incomplete dissoln. during the duration of the toxicity tests. The lowest chronic toxicity thresholds are 1.1 mg Sb L-1 in water and 370 mg Sb kg-1 dry wt. for soil. These concns. are >100-fold larger than typical natural background concns. [on SciFinder(R)]},
+   keywords = {ecotoxicity threshold antimony water soil pollution},
+   year = {2009}
+}
+
+@article{
+   author = {Oorts, Koen and Smolders, Erik and Degryse, Fien and Buekers, Jurgen and Gasco, Gabriel and Cornelis, Geert and Mertens, Jelle},
+   title = {Solubility and Toxicity of Antimony Trioxide (Sb2O3) in Soil},
+   journal = {Environ. Sci. Technol.},
+   volume = {42},
+   number = {Copyright (C) 2012 American Chemical Society (ACS). All Rights Reserved.},
+   pages = {4378-4383},
+   note = {CAPLUS AN 2008:577136(Journal)},
+   abstract = {Antimony trioxide (Sb2O3) is a widely used chem. that can be emitted to soil. The fate and toxicity of this poorly sol. compd. in soil is insufficiently known. A silt-loam soil (pH 7.0, background 0.005 mmol Sb kg-1) was amended with Sb2O3 at various concns. More than 70% of Sb in soil soln. was present as Sb(V) (antimonate) within 2 days. The soil soln. Sb concns. gradually increased between 2 and 35 days after Sb2O3 amendment but were always below that of soils amended with the more sol. SbCl3 at the lower Sb concns. The soil soln. Sb concns. in freshly amended SbCl3 soils (7 days equilibration) were equiv. to those in Sb2O3-amended soils equilibrated for 5 years at equiv. total soil Sb. Our data indicate that the Sb soly. in this soil was controlled by a combination of sorption on the soil surface, Sb pptn. at the higher doses, and slow dissoln. of Sb2O3, the latter being modeled with a half-life ranging between 50 and 250 days. Toxicity of Sb to plant growth (root elongation of barley, shoot biomass of lettuce) or to nitrification was found in soil equilibrated with Sb2O3 (up to 82 mmol Sb kg-1) for 31 wk with 10% inhibition values at soil soln. Sb concns. of 110 μM Sb or above. These concns. are equiv. to 4.2 mmol Sb per kg soil (510 mg Sb kg-1) at complete dissoln. of Sb2O3 in this soil. No toxicity to plant growth or nitrification was evident in toxicity tests starting one week after soil amendment with Sb2O3, whereas clear toxicity was found in a similar test using SbCl3. However, these effects were confounded by a decrease in pH and an increase in salinity. It is concluded that the Sb(V) toxicity thresholds are over 100-fold larger than background concns. in soil and that care must be taken to interpret toxicity data of sol. Sb(III) forms due to confounding factors. [on SciFinder(R)]},
+   keywords = {antimony trioxide soil pollution soly phytotoxicity barley lettuce},
+   year = {2008}
+}
+
+@article{
+   author = {Pan, Xiangliang and Zhang, Daoyong and Chen, Xi and Bao, Anming and Li, Lanhai},
+   title = {Antimony accumulation, growth performance, antioxidant defense system and photosynthesis of Zea mays in response to antimony pollution in soil},
+   journal = {Water, Air, Soil Pollut.},
+   volume = {215},
+   number = {Copyright (C) 2012 American Chemical Society (ACS). All Rights Reserved.},
+   pages = {517-523},
+   note = {CAPLUS AN 2011:64826(Journal; Online Computer File)},
+   abstract = {Antimony (Sb) pollution in the downstream farmland soil of the Sb mine area has been of a great environmental concern to the local residents. However, effects of Sb on the growth and physiol. of crops are still not well known. In the present study, Sb uptake and its effect on growth, antioxidant defense system, and photosynthesis of maize (Zea mays) were investigated. Our results demonstrated that accumulation of Sb in the maize increased with increasing Sb level in the soil. Sb could be easily translocated from root to shoot with a translocation coeff. over 2.05. Plant growth and biomass were reduced due to Sb pollution. Under Sb stress, the activities of peroxidase (POD), superoxide dismutases (SOD), and catalase (CAT) responded differently. The activities of POD and SOD were inhibited when the soil Sb concn. was higher than 50 mg kg-1. CAT activity showed an increasing trend with increasing soil Sb concn. Chlorophyll synthesis and the max. photochem. efficiency (F V/F M) were also inhibited significantly under stress of high-level Sb in soil. [on SciFinder(R)]},
+   keywords = {corn antimony pollution antioxidant photosynthesis},
+   year = {2011}
+}
+
+@article{
+   author = {Sakamoto, Hayao and Tomiyasu, Takashi and Yonehara, Norinobu},
+   title = {The contents and distribution of arsenic and antimony in sea water from Kagoshima Bay, [Japan], in comparison with East China Sea},
+   journal = {Kagoshima Daigaku Rigakubu Kiyo, Sugaku, Butsurigaku, Kagaku},
+   volume = {29},
+   number = {Copyright (C) 2012 American Chemical Society (ACS). All Rights Reserved.},
+   pages = {23-38},
+   note = {CAPLUS AN 1997:326487(Journal)},
+   abstract = {Sea water samples collected from Kagoshima Bay, Japan, and the open ocean (the East China Sea) were analyzed for arsenic and antimony by hydride generation-at. absorption spectrometry with hydrogen-nitrogen flame using sodium borohydride soln. as reductant. Levels of arsenic and antimony contents including each class of depth were found to be in the range of 0.5-8.8 μg/L (geometric mean 1.58), 0.10-2.16 μg/L (geometric mean 0.275) for 54-91 samples taken from Kagoshima Bay and 1.0-2.2 μg/L (geometric mean 1.40), 0.15-0.61 μg/L (geometric mean 0.237) for 59-67 samples taken from the East China Sea, resp. By comparing the mean levels for arsenic and antimony contents including each class of depth, the arsenic and antimony level from Kagoshima Bay were slightly higher than those of the East China Sea. Arsenic and antimony contents in sea water at the hot position 200 m deep near the fumarole of northern Kagoshima Bay were higher than those for southern Kagoshima Bay. This suggests that arsenic and antimony have been supplied as result of volcanic activity which took place both in the past and are under way at present. [on SciFinder(R)]},
+   keywords = {antimony arsenic seawater East China Sea
+arsenic antimony seawater Kagoshima Bay Japan},
+   year = {1996}
+}
+
+@article{
+   author = {Serfor-Armah, Y. and Nyarko, B. J. B. and Dampare, S. B. and Adomako, D.},
+   title = {Levels of Arsenic and Antimony in Water and Sediment from Prestea, A Gold Mining Town in Ghana and its Environs},
+   journal = {Water, Air, Soil Pollut.},
+   volume = {175},
+   number = {Copyright (C) 2012 American Chemical Society (ACS). All Rights Reserved.},
+   pages = {181-192},
+   note = {CAPLUS AN 2006:808515(Journal)},
+   abstract = {Arsenic and antimony concns. in water and sediment samples collected from Prestea, a gold mining town in the Western Region of Ghana and its environs were studied. The concns. of these elements were measured using instrumental neutron activation anal. (INAA). INAA was preferred to other modern anal. techniques because of its relatively higher selectivity, sensitivity and high precision. Beside its multielemental nature, INAA is very fast and thus presents a very good anal. tool for the detn. of elemental concns. in various samples including water and sediment. The samples were irradiated using a 30 kW tank-in-pool Ghana Research Reactor-1 (GHARR-1) operating at a thermal neutron flux of 5 × 1011 n s-1 cm-2. The samples were irradiated and counted without any chem. treatment. Elevated levels of As and Sb were found in both water and sediment. Generally, As and Sb concns. in the water samples ranged from 0.90-8.25 ppm and 0.09-0.75 ppm resp. These values far exceed the WHO recommended values for As and Sb in water, 0.01 ppm and 0.005 ppm resp. The levels of As in sediment ranged from 942-10,200 ppm, and that of Sb was 8.5-90.4 ppm. Arsenic concns. in both water and sediment were generally higher than Sb concns. This is, however, not surprising as arsenopyrites (FeAsS2) are among the major pathfinder minerals assocd. with gold mined from Ghana. Our results show that the study area is polluted as far as the levels of As and Sb in water and sediment are concerned. [on SciFinder(R)]},
+   keywords = {arsenic antimony water sediment gold mining Ghana},
+   year = {2006}
+}
+
+@article{
+   author = {Shumilin, E. N. and Volkov, A. A. and Lubanov, A. A.},
+   title = {State of antimony-125 in sea water},
+   journal = {Vestn. Mosk. Univ., Ser. 2: Khim.},
+   volume = {21},
+   number = {Copyright (C) 2012 American Chemical Society (ACS). All Rights Reserved.},
+   pages = {99},
+   note = {CAPLUS AN 1980:479418(Journal)},
+   abstract = {A study of the state of 125Sb in seawater using ultrafiltration, centrifugation, dialysis, electromigration, adsorption on glass, and extn. showed that it is stabilized in the form of anions, which are weakly sorbed in suspended solids in the seawater. [on SciFinder(R)]},
+   keywords = {antimony 125 chem form seawater},
+   year = {1980}
+}
+
+@article{
+   author = {Steely, Sarah and Amarasiriwardena, Dulasiri and Xing, Baoshan},
+   title = {An investigation of inorganic antimony species and antimony associated with soil humic acid molar mass fractions in contaminated soils},
+   journal = {Environ. Pollut. (Amsterdam, Neth.)},
+   volume = {148},
+   number = {Copyright (C) 2012 American Chemical Society (ACS). All Rights Reserved.},
+   pages = {590-598},
+   note = {CAPLUS AN 2007:617222(Journal)},
+   abstract = {The presence of antimony compds. is often suspected in the soil of apple orchards contaminated with lead arsenate pesticide and in the soil of shooting ranges. Nitric acid (1 M) extractable Sb from the shooting range (8300 μg kg-1) and the apple orchard (69 μg kg-1) had considerably higher surface Sb levels than the control site (<1.5 μg kg-1), and Sb was confined to the top ∼30 cm soil layer. Sb(V) was the principal species in the shooting range and the apple orchard surface soils. Size exclusion chromatog.-inductively coupled plasma-mass spectrometry (SEC-ICP-MS) anal. of humic acids isolated from the two contaminated soils demonstrated that Sb has complexed to humic acid molar mass fractions. Also, humic acids have the ability to arrest the mobility of Sb through soils and would be beneficial in converting Sb(III) to a less toxic species, Sb(V), in contaminated areas. The soil surface and depth distribution Sb(V) and Sb(III) species in a contaminated apple orchard and a shooting range, and the effect soil humic acids on inorg. antimony species is reported. [on SciFinder(R)]},
+   keywords = {antimony species apple orchard contaminated soil humic acid fraction},
+   year = {2007}
+}
+
+@article{
+   author = {Syed, L. Khowa and Shumilin, E. N. and Volkov, A. A.},
+   title = {Effect of iron(III) on the state of antimony-125 in sea water},
+   journal = {Vestn. Mosk. Univ., Ser. 2: Khim.},
+   volume = {20},
+   number = {Copyright (C) 2012 American Chemical Society (ACS). All Rights Reserved.},
+   pages = {375-6},
+   note = {CAPLUS AN 1980:99400(Journal)},
+   abstract = {The copptn. or codeposition of Fe3+ with 125Sb ions in seawater at pH 7.7 can occur at any Fe3+ concn. At pH 7.7, Fe3+ exist in colloidal hydrated Fe(OH)3 which can adsorb 125Sb ions. At Fe3+ concns. <2.5 × 10-5 M only ≤1% 125Sb ions are adsorbed on Fe(OH)3 micelles (and thus are in colloidal phase). This solubilization of 125Sb also depends on the history of Fe3+-125Sb system. Thus, when seawater contg. HCl at pH 2 is treated with FeCl3 5 × 10-5 and 125Sb salts <10-7 mol, then treated with NaOH to pH 7.7, and aged 240 h, the adsorption of 125Sb on Fe colloids is 15 ± 1%. [on SciFinder(R)]},
+   keywords = {adsorption antimony iron colloid
+seawater copptn antimony iron},
+   year = {1979}
+}
+
+@article{
+   author = {Tighe, M. and Ashley, P. and Lockwood, P. and Wilson, S.},
+   title = {Soil, water, and pasture enrichment of antimony and arsenic within a coastal floodplain system},
+   journal = {Science of The Total Environment},
+   volume = {347},
+   number = {1–3},
+   pages = {175-186},
+   abstract = {Moderate levels of enrichment with environmental contaminants, such as arsenic (As) and antimony (Sb), have received less attention than gross contamination related to obvious point sources of pollution. Within the Macleay floodplain of north-eastern NSW it was found that approximately 90% of the floodplain is enriched in As and Sb, and 6–8% of the floodplain contains As and Sb levels greater than current Australian soil environmental investigation levels. Variation in surface and depth distributions indicated flood deposition of As and Sb across major environmental floodplain environments, with highest accumulation in modern swamp depositional environments. The soil enrichment was reflected by pasture uptake (up to 6.4 and 2.2 mg kg−1 for As and Sb, respectively) and elevated surface water concentrations (up to 10 and 21 times drinking guideline values and 2.9 and 6.9 times freshwater trigger values for protection of 95% of species for As and Sb, respectively) of these metalloids. Significant relationships between pasture and total soil levels imply higher relative availability than is typical at grossly contaminated sites. Implications for metalloid mobility and availability in acid sulfate soil environments in the floodplain are discussed.},
+   keywords = {Arsenic
+Antimony
+Contamination
+Floodplain},
+   year = {2005}
+}
+
+@article{
+   author = {Tschan, Martin and Robinson, Brett and Johnson, C. Annette and Buergi, Annina and Schulin, Rainer},
+   title = {Antimony uptake and toxicity in sunflower and maize growing in SbIII and SbV contaminated soil},
+   journal = {Plant Soil},
+   volume = {334},
+   number = {Copyright (C) 2012 American Chemical Society (ACS). All Rights Reserved.},
+   pages = {235-245},
+   note = {CAPLUS AN 2010:1029804(Journal)},
+   abstract = {Using pot expts., we investigated the uptake of antimony (Sb) by sunflower (Helianthus annuus L. cv. Iregi), and maize (Zea mays L. cv. Magister) in two different soils, a potting mix and an agricultural soil. In one treatment Sb was added to the exptl. soils as KSb(OH)6 ("SbV-treatment") and in the other as Sb2O3 ("SbIII-treatment"). Sol. soil Sb concns. were linearly related to the applied Sb rates, ranging from 0.02 (controls) to 175 mg L-1 soil soln. Accumulation of Sb tended to be slightly higher in the SbV treatment in sunflower, while no difference in Sb uptake between the two Sb treatments was found in maize. The half maximal effective concn. (EC50) values derived from the dose-response curves were higher for the SbV than for the SbIII treatment when they were related to sol. soil Sb concns., but differences became insignificant when they were related to shoot Sb concns. Maize was substantially more sensitive to Sb toxicity than sunflower, indicating physiol. differences in Sb tolerance between the two plant species. Our results show that on soils with high Sb contamination, as often found in shooting ranges, plants may suffer from Sb toxicity. [on SciFinder(R)]},
+   keywords = {antimony phytotoxicity Helianthus Zea growth uptake soil pollution},
+   year = {2010}
+}
+
+@article{
+   author = {Tschan, Martin and Robinson, Brett H. and Nodari, Matteo and Schulin, Rainer},
+   title = {Antimony uptake by different plant species from nutrient solution, agar and soil},
+   journal = {Environ. Chem.},
+   volume = {6},
+   number = {Copyright (C) 2012 American Chemical Society (ACS). All Rights Reserved.},
+   pages = {144-152},
+   note = {CAPLUS AN 2009:808945(Journal; Online Computer File)},
+   abstract = {The uptake of antimonate from nutrient solns., agar and soil by various cultivated plants, including Indian mustard (Brassica juncea (L.) Czern), sunflower (Helianthus annuus L.), perennial ryegrass (Lolium perenne L.), clover (Trifolium pratense L.), wheat (Triticum aestivum L.) and maize (Zea mays L.) was studied. Antimony uptake did not differ between the three growth media. In all tested plants, the shoot Sb concn. was proportional to Sb in soln. or sol. Sb in soil, until toxicity eventually limited growth. At a given Sb concn. in the growth medium, Sb accumulation differed between plant species by up to an order of magnitude. Clover grown in agar contg. 160 mg L-1 Sb in soln. accumulated 2151 mg kg-1 Sb (dry wt.) in the shoots. Maize had the lowest accumulation. In maize and sunflower, most Sb accumulated in the leaves. Thus, antimony may accumulate in the edible parts of crop plants grown on heavily contaminated soils at concns. that may pose a health risk to humans and animals. [on SciFinder(R)]},
+   keywords = {antimony uptake plant species hydroponics soil agar},
+   year = {2009}
+}
+
+@article{
+   author = {Tschan, Martin and Robinson, Brett H. and Schulin, Rainer},
+   title = {Antimony in the soil-plant system - a review},
+   journal = {Environ. Chem.},
+   volume = {6},
+   number = {Copyright (C) 2012 American Chemical Society (ACS). All Rights Reserved.},
+   pages = {106-115},
+   note = {CAPLUS AN 2009:808941(Journal; General Review; Online Computer File)},
+   abstract = {A review. Soil contamination by antimony (Sb) due to human activities has considerably increased in the recent past. We reviewed the available literature on Sb uptake by plants and toxicity risks arising from soil contamination by Sb and found that Sb is generally taken up by terrestrial plants in proportion to the concn. of sol. Sb in soil over a concn. range covering five or more orders of magnitude. However, very little is known about the mechanisms of Sb uptake by plants. Also the deposition of resuspended soil particles on the surfaces of aerial plant surfaces can result in high plant Sb concn. in the vicinity of Sb-contaminated sites. Although soil pollution by Sb may be rarely so severe as to cause toxicity problems to humans or animals consuming plants or food derived from plants grown on Sb-contaminated sites, such risks may arise under worst-case conditions. [on SciFinder(R)]},
+   keywords = {review antimony soil plant system biomagnification food chain
+antimony soil pollution plant uptake bioaccumulation review},
+   year = {2009}
+}
+
+@article{
+   author = {Tserenpil, Sh and Liu, Cong-Qiang},
+   title = {Study of antimony (III) binding to soil humic acid from an antimony smelting site},
+   journal = {Microchem. J.},
+   volume = {98},
+   number = {Copyright (C) 2012 American Chemical Society (ACS). All Rights Reserved.},
+   pages = {15-20},
+   note = {CAPLUS AN 2011:264641(Journal)},
+   abstract = {Soil samples were collected from an antimony smelting site in Guangxi Zhuang Autonomous Region, China, at four locations characterized by different land usage, including two cultivated sites: one formerly cultivated and one uncultivated. Surface soils from all four sites were heavily polluted by toxic metals including antimony (Sb), lead (Pb), and arsenic (As), and their concns. were 410-3330 mg/kg-1, 410-3690 mg/kg-1, and 200-460 mg/kg-1, resp. In the uncultivated area, metal levels were 1.4-6.2 times higher as compared to the formerly and currently cultivated agricultural land. Lower levels at the cultivated sites may have resulted from an accumulated uptake of airborne particles by vegetation and lower contents in the surface soil. However, the elevated mercury (Hg) content may reflect both natural and anthropogenic origins in this smelting site. Soil-derived humic acid (HA) from the smelting site reacted directly with Sb (III) aq. solns. with concns. of 12, 71, and 143 mg/g-1. The max. Sb (III) binding to the soil-derived HA was 253 μmol/g-1 (added concn. of 71 mg/g-1) and showed more binding (up to 50%) at lower Sb content. [on SciFinder(R)]},
+   keywords = {antimony soil smelting site Jinchengjiang Hechi Guangxi Zhuang China
+anthropogenic antimony binding humic acid soil pollution near smelter
+airborne particle antimony decreased agricultural soil biol uptake},
+   year = {2011}
+}
+
+@article{
+   author = {Van, Vleek Britton and Amarasiriwardena, Dula and Xing, Baoshan},
+   title = {Investigation of distribution of soil antimony using sequential extraction and antimony complexed to soil-derived humic acids molar mass fractions extracted from various depths in a shooting range soil},
+   journal = {Microchem. J.},
+   volume = {97},
+   number = {Copyright (C) 2012 American Chemical Society (ACS). All Rights Reserved.},
+   pages = {68-73},
+   note = {CAPLUS AN 2010:1498028(Journal)},
+   abstract = {Trace metal contamination from bullet fragments in shooting ranges is a major environmental concern. In particular, trace metals such as lead, antimony, and copper are toxic and have the potential to enter groundwater supplies and to be absorbed by plants. Soil humic acids can play a crit. role in mobilizing some of these released metals through complexation. The purpose of this study is to investigate the antimony complexed to soil-derived humic molar mass fractions extd. from various depths in a shooting range soil and to examine the distribution of antimony in various fractions of shooting range soils using sequential chem. extn. approach. The surface soil and soil core samples from a local shooting range were collected. Soil-derived humic acids were extd. from different depths of the top soil layer and characterized by various spectroscopic methods. Results of sequential chem. extn. demonstrated that Sb was found in shooting range in the upper 30 cm depth of the soil core. Highly elevated Sb is present in the exchangeable and ammonium acetate extd. fractions. Antimony is also present in the residual fraction in both surface and core soil samples, but is most likely present in a lithic phase which may not be readily bio-available. Leached antimony complexed to soil humic acid molar mass fractions was detd. by size exclusion chromatog. coupled to inductively coupled plasma-mass spectrometry (SEC-ICP-MS). The results demonstrate that Sb is 'tightly' bound to humic acid mass molar mass fractions and confined in the top 10 cm of soil-derived humic acids. [on SciFinder(R)]},
+   keywords = {antimony shooting range soil pollution sequential chem extn},
+   year = {2011}
+}
+
+@article{
+   author = {Vásquez, Laura and Scorza Dagert, José V. and Scorza, José V. and Vicuña-Fernández, Nelson and de Peña, Yaneira Petit and López, Sabrina and Bendezú, Herminia and Rojas, Elina and Vásquez, Libia and Pérez, Belén},
+   title = {Pharmacokinetics of experimental pentavalent antimony after intramuscular administration in adult volunteers},
+   journal = {Current Therapeutic Research},
+   volume = {67},
+   number = {3},
+   pages = {193-203},
+   keywords = {pharmacokinetic
+antimony
+Ulamina
+humans
+antileishmania drugs},
+   year = {2006}
+}
+
+@article{
+   author = {Wang, Qiongshan and He, Mengchang and Wang, Ying},
+   title = {Influence of combined pollution of antimony and arsenic on culturable soil microbial populations and enzyme activities},
+   journal = {Ecotoxicology},
+   volume = {20},
+   number = {Copyright (C) 2012 American Chemical Society (ACS). All Rights Reserved.},
+   pages = {9-19},
+   note = {CAPLUS AN 2011:31400(Journal; Online Computer File)},
+   abstract = {The effects of both combined and single pollution of antimony (Sb) and arsenic (As) in different concns. on culturable soil microbial populations and enzyme activities were studied under lab. conditions. Joint effects of both Sb and As were different from that of Sb or As alone. The inhibition rate of culturable soil microbial populations under Sb and As pollution followed the order: bacterial > fungi > actinomycetes. There existed antagonistic inhibiting effect on urease and acid phosphatase and synergistic inhibiting effect on protease under the combined pollution of Sb (III) and As (III). Only urease appeared to be the most sensitive indicator under Sb (V) and As (V) pollution, and there existed antagonistic inhibiting effect on acid phosphatase and synergistic inhibiting effect on urease and protease under Sb (V) and As (V) combined pollution at most time. In this study, we also confirmed that the trivalent states of Sb and As were more toxic to all the microbes tested and more inhibitory on microbial enzyme activities then their pentavalent counterparts. The results also suggest that not only the application rate of the two metalloids but also the chem. form of metalloids should be considered while assessing the effect of metalloid on culturable microbial populations and enzyme activities. Urease and acid phosphatase can be used as potential biomarkers to evaluate the intensity of Sb (III) and As (III) stress. [on SciFinder(R)]},
+   keywords = {antimony arsenic soil pollution bacteria fungus actinomycete},
+   year = {2011}
+}
+
+@article{
+   author = {Wilson, Susan C. and Lockwood, Peter V. and Ashley, Paul M. and Tighe, Matthew},
+   title = {The chemistry and behaviour of antimony in the soil environment with comparisons to arsenic: a critical review},
+   journal = {Environ. Pollut. (Oxford, U. K.)},
+   volume = {158},
+   number = {Copyright (C) 2012 American Chemical Society (ACS). All Rights Reserved.},
+   pages = {1169-1181},
+   note = {CAPLUS AN 2010:626456(Journal; General Review)},
+   abstract = {A review. This article provides a crit. review of the environmental chem. of inorg. antimony (Sb) in soils, comparing and contrasting findings with those of arsenic (As). Characteristics of the Sb soil system are reviewed, with an emphasis on speciation, sorption and phase assocns., identifying differences between Sb and As behavior. Knowledge gaps in environmentally relevant Sb data for soils are identified and discussed in terms of the limitations this imposes on understanding the fate, behavior and risks assocd. with Sb in environmental soil systems, with particular ref. to mobility and bioavailability. [on SciFinder(R)]},
+   keywords = {review antimony chem behavior soil environment arsenic pollution},
+   year = {2010}
+}
+
+@article{
+   author = {Wu, Fengchang and Sun, Fuhong and Wu, Shan and Yan, Yuanbo and Xing, Baoshan},
+   title = {Removal of antimony(III) from aqueous solution by freshwater cyanobacteria Microcystis biomass},
+   journal = {Chem. Eng. J. (Amsterdam, Neth.)},
+   volume = {183},
+   number = {Copyright (C) 2012 American Chemical Society (ACS). All Rights Reserved.},
+   pages = {172-179},
+   note = {CAPLUS AN 2012:187391(Journal; Online Computer File)},
+   abstract = {The biosorption behaviors of antimony(III) by cyanobacteria Microcystis were investigated under various environmental parameters to evaluate the potential of Microcystis to remove Sb(III). The max. biosorption capacity was detd. to be 4.88 mg/g (dry wt.) at pH 4.0. The biosorption process followed the pseudo-second-order rate kinetics. There were increasingly inhibitive effects of ionic strength of NaCl on the biosorption capacities. The high desorption efficiency was achieved using 4 mol/L HCl. The regeneration studies show that the biomass could be used for a min. of five repetitive cycles. The ATR-IR spectra anal. suggested the involvement of carboxyl, hydroxyl and amino groups in Sb(III) biosorption through surface complexation. Furthermore, the results of speciation anal. found the concurrence of oxidn. of Sb(III) with the biosorption process, which is beneficial to alleviate the ecol. toxicity of Sb(III). The chem. conversion of Sb(III) into Sb(V) was pH and time dependent. The results are of significance to the further understanding of the biosorption of Microcystis to remove toxic metals. [on SciFinder(R)]},
+   year = {2012}
+}
+
+@article{
+   author = {You, H. and Welp, U. and Crabtree, G. W. and Fang, Y. and Sinha, S. K. and Axe, J. D. and Jiang, X. and Moss, S. C.},
+   title = {X-Ray Crystal-Truncation-Rod Analysis of Untwinned Yba2cu3o7-Delta Single-Crystals - the Growth-Termination Plane},
+   journal = {Physical Review B},
+   volume = {45},
+   number = {9},
+   pages = {5107-5110},
+   note = {Hh418
+Times Cited:12
+Cited References Count:12},
+   abstract = {Crystal truncation rods (CTR's), or x-ray scattering from a terminated surface of a three-dimensional single crystal, were measured for untwinned single crystals of YBa2Cu3O7 - delta.  An expression for the intensity along the CTR's, which may be directly applied to a structure with a complicated unit cell, was derived from a Bloch wave expansion of the electron density.  Data analysis using this expression indicates that the most probable metal-containing layer at the terminating surface of a flux-grown YBa2Cu3O7 - delta single crystal is the Y layer.},
+   keywords = {surfaces
+diffraction
+scattering},
+   year = {1992}
+}
+
+@article{
+   author = {Zhang, Daoyong and Pan, Xiangliang and Mu, Guijin},
+   title = {Antimony pollution in water and soil and its ecotoxicological effects on plants and microorganisms},
+   journal = {Yingyong Yu Huanjing Shengwu Xuebao},
+   volume = {16},
+   number = {Copyright (C) 2012 American Chemical Society (ACS). All Rights Reserved.},
+   pages = {891-894},
+   note = {CAPLUS AN 2011:379423(Journal; General Review)},
+   abstract = {A review. The ever-increasing antimony (Sb) pollution has drawn more and more attention from scientists and governments. Sb pollution in water and soil and its ecotoxicol. effects on plants and microorganism are reviewed in this paper. Phytoaccumulation of Sb varies greatly with plant species and contamination sites. The translocation coeffs. of Sb from plant roots to above-ground biomass also varies greatly with plant species. Chem. forms of Sb exist mainly at +3 and +5 in aquatic environment and are affected by the redox conditions. Bioaccumulation of Sb in aquatic environment focuses on the algae. The mechanisms involved in adsorption and partition of Sb inside cell are unclear. So far little information was available on environmental behavior of Sb and its toxicity to higher plants and microbes. The transport and transformation of Sb in pedosphere, hydrosphere and atm. and among them, and the mol. mechanisms of toxicity of Sb to higher plants and microorganisms need further study. [on SciFinder(R)]},
+   keywords = {review water soil pollution antimony},
+   year = {2010}
+}
+
+@article{
+   author = {Zhang, Z. and Fenter, P. and Bedzyk, M. J. and Sturchio, N. C. and Machesky, M. L. and Wesolowski, D. J.},
+   title = {Atomic structure at rutile TiO2 (110)-aqueous interface with crystal truncation rod measurements.},
+   journal = {Abstracts of Papers of the American Chemical Society},
+   volume = {227},
+   pages = {U1202-U1203},
+   note = {Part 1
+851AJ
+068-GEOC
+Times Cited:0
+Cited References Count:0},
+   year = {2004}
+}
+
+@article{
+   author = {Zhang, Z. and Fenter, P. and Bedzyk, M. J. and Sturchio, N. C. and Machesky, M. L. and Wesolowski, D. J.},
+   title = {Structure of adsorbed ions at the rutile TiO2 (110)-aqueous interface with crystal truncation rod measurements.},
+   journal = {Abstracts of Papers of the American Chemical Society},
+   volume = {229},
+   pages = {U765-U765},
+   note = {Part 2
+008UQ
+411-PHYS
+Times Cited:0
+Cited References Count:0},
+   year = {2005}
+}
+
